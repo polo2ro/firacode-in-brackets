@@ -3,5 +3,5 @@ define(function (require, exports, module) {
 
     var ExtensionUtils = brackets.getModule("utils/ExtensionUtils");
 
-    ExtensionUtils.addEmbeddedStyleSheet(".CodeMirror { font-family: 'Fira Mono'; } #sidebar { font-family: 'Fira Sans'; }");
+    ExtensionUtils.addEmbeddedStyleSheet("body{font-family:'Fira Sans';}.CodeMirror{font-family:'Fira Mono'!important;}");
 });

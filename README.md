@@ -6,7 +6,7 @@ This plugin requires that the fonts are installed locally on your computer. You 
 * https://github.com/mozilla/Fira
 * http://www.carrois.com/en/
 
-To install in Brackets, simply open the Brackets Extension Manager and search for “fira”.
+To install in Brackets, simply open the Brackets Extension Manager and search for “fira”.
 
 ## License
 The fonts: [SIL Open Font License](https://github.com/mozilla/Fira/blob/master/LICENSE).<br>

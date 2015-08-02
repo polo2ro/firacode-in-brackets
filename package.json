@@ -3,11 +3,11 @@
   "title": "Fira in Brackets",
   "description": "A simple extension that changes the Brackets UI fonts to Fira Mono and Fira Sans.",
   "homepage": "https://github.com/matthewkidd/fira-in-brackets",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "Matthew Kidd (https://www.matthewkidd.uk)",
   "license": "MIT",
   "engines": {
-    "brackets": ">=0.37.0"
+    "brackets": ">=0.42.0"
   },
   "keywords": [
     "Fira",
