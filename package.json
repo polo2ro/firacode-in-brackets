@@ -5,7 +5,7 @@
   "homepage": "https://github.com/polo2ro/firacode-in-brackets",
   "version": "1.1.0",
   "author": "Paul de Rosanbo",
-  "contributors": ["Matthew Kidd (https://www.matthewkidd.uk)"]
+  "contributors": ["Matthew Kidd (https://www.matthewkidd.uk)"],
   "license": "MIT",
   "engines": {
     "brackets": ">=0.42.0"
